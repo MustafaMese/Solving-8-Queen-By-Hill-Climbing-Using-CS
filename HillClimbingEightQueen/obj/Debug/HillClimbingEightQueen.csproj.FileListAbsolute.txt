@@ -1,0 +1,7 @@
+C:\Users\Mustafa\source\repos\HillClimbingEightQueen\HillClimbingEightQueen\bin\Debug\HillClimbingEightQueen.exe.config
+C:\Users\Mustafa\source\repos\HillClimbingEightQueen\HillClimbingEightQueen\bin\Debug\HillClimbingEightQueen.exe
+C:\Users\Mustafa\source\repos\HillClimbingEightQueen\HillClimbingEightQueen\bin\Debug\HillClimbingEightQueen.pdb
+C:\Users\Mustafa\source\repos\HillClimbingEightQueen\HillClimbingEightQueen\obj\Debug\HillClimbingEightQueen.csprojAssemblyReference.cache
+C:\Users\Mustafa\source\repos\HillClimbingEightQueen\HillClimbingEightQueen\obj\Debug\HillClimbingEightQueen.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\source\repos\HillClimbingEightQueen\HillClimbingEightQueen\obj\Debug\HillClimbingEightQueen.exe
+C:\Users\Mustafa\source\repos\HillClimbingEightQueen\HillClimbingEightQueen\obj\Debug\HillClimbingEightQueen.pdb
